@@ -34,20 +34,6 @@ LLM Arbitrator is a brilliant framework that:
 
 Think of it as having a team of AI experts at your fingertips, each contributing their unique strengths to solve your problems with unprecedented intelligence.
 
-## 📋 Table of Contents
-
-- [🔍 Overview](#overview)
-- [⚡ The Power of LLM Arbitration](#the-power-of-llm-arbitration)
-- [🌟 Key Features](#key-features)
-- [🤝 Supported Providers](#supported-providers)
-- [🚀 Quick Start](#quick-start)
-- [💻 Usage Examples](#usage-examples)
-- [🏗️ Architecture](#architecture)
-- [✨ Advanced Features](#advanced-features)
-- [👨‍💻 Development](#development)
-- [🔧 Troubleshooting](#troubleshooting)
-- [🤲 Contributing](#contributing)
-
 ## 🔍 Overview
 
 The LLM Arbitrator is your gateway to AI superpowers! It seamlessly connects Claude/Cline with your self-hosted models through multiple providers (LM Studio, Ollama, and more). Instead of being limited to just one AI brain, you get an entire team of specialists working together on your tasks. It intelligently routes tasks based on model capabilities, combines their strengths, and preserves detailed reasoning processes to enable more informed, transparent, and powerful AI workflows.
