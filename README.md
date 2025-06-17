@@ -6,7 +6,7 @@
 [![LM Studio](https://img.shields.io/badge/LM%20Studio-Compatible-blueviolet)](https://lmstudio.ai/)
 [![Ollama](https://img.shields.io/badge/Ollama-Compatible-orange)](https://ollama.ai/)
 
-> 🔮 Created by [seismiclabsxyz](https://github.com/seismiclabsxyz) - Transforming multi-model workflows through intelligent coordination.
+> 🔮 Created by [pic0tee](https://github.com/pic0tee) - Transforming multi-model workflows through intelligent coordination.
 
 <div align="center">
 <h3>Why choose one AI model when you can have the best of all?</h3>
@@ -147,7 +147,7 @@ Just a few simple steps to get your AI team assembled:
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/seismiclabsxyz/llm-arbitrator.git
+git clone https://github.com/pic0tee/llm-arbitrator.git
 cd llm-arbitrator
 
 # 📦 Install dependencies
@@ -559,7 +559,7 @@ set LOG_LEVEL=debug
 
 Hit a snag? We're here to help!
 
-- 🔍 Check the [GitHub Issues](https://github.com/seismiclabsxyz/llm-arbitrator/issues) for known problems
+- 🔍 Check the [GitHub Issues](https://github.com/pic0tee/llm-arbitrator/issues) for known problems
 - 📚 See [CONTRIBUTING.md](CONTRIBUTING.md) for development questions
 - 💬 Join our [Discord community](https://discord.gg/llm-arbitrator) for live support
 
@@ -583,12 +583,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use LLM Arbitrator in your research or applications, please cite it as:
 
 ```bibtex
-@software{seismiclabsxyz2025llmarbitrator,
-  author       = {seismiclabsxyz},
+@software{pic0tee2025llmarbitrator,
+  author       = {pic0tee},
   title        = {LLM Arbitrator: A Framework for Intelligent Model Coordination},
   year         = {2025},
   publisher    = {GitHub},
-  url          = {https://github.com/seismiclabsxyz/llm-arbitrator},
+  url          = {https://github.com/pic0tee/llm-arbitrator},
   note         = {An MCP-compatible framework for orchestrating multiple language models through capability-based routing}
 }
 ```
@@ -601,4 +601,4 @@ If you use LLM Arbitrator in your research or applications, please cite it as:
 
 ---
 
-© 2025seismiclabsxyz. All Rights Reserved.
+© 2025pic0tee. All Rights Reserved.
